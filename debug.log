@@ -1,0 +1,6 @@
+[1209/113400.431:ERROR:settings.cc(325)] Settings version is not 1
+[1209/114505.498:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1210/144609.586:ERROR:settings.cc(325)] Settings version is not 1
+[1210/145609.608:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1210/212142.751:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1210/214647.584:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
