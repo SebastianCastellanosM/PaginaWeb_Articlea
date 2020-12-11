@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Business Casual Preview](https://assets.startbootstrap.com/img/screenshots/themes/business-casual.png)](file:///C:/Users/Usuario/OneDrive/Escritorio/Pagina%20Web/index.html)
+[![Business Casual Preview]](file:///C:/Users/Usuario/OneDrive/Escritorio/Pagina%20Web/index.html)
 
 **[View Live Preview](file:///C:/Users/Usuario/OneDrive/Escritorio/Pagina%20Web/index.html)**
 
